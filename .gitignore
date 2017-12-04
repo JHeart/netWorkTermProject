@@ -8,3 +8,6 @@ game/.settings/org.eclipse.jdt.core.prefs
 game/src/kr/ac/hansung/game/net/.settings/org.eclipse.jdt.core.prefs
 game/src/kr/ac/hansung/game/net/.project
 game/src/kr/ac/hansung/game/net/.classpath
+/.metadata/
+RemoteSystemsTempFiles/.project
+RemoteSystemsTempFiles/.project
