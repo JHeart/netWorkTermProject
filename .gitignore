@@ -1,1 +1,10 @@
-.class
+*.class
+game/bin/kr/ac/hansung/game/net/.classpath
+game/.classpath
+game/.project
+game/bin/kr/ac/hansung/game/net/.project
+game/bin/kr/ac/hansung/game/net/.settings/org.eclipse.jdt.core.prefs
+game/.settings/org.eclipse.jdt.core.prefs
+game/src/kr/ac/hansung/game/net/.settings/org.eclipse.jdt.core.prefs
+game/src/kr/ac/hansung/game/net/.project
+game/src/kr/ac/hansung/game/net/.classpath
